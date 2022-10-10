@@ -4,6 +4,10 @@
 int main()
 {
 	int num1,num2,num3;
+	
+	
+	printf("Welcome to Addition world");
+	
 	printf("Enter all the three numbers:");
 	scanf("%d %d %d \n",&num1,&num2,&num3);
 	
