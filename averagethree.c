@@ -8,6 +8,8 @@ int main()
 	
 	printf("Welcome to Addition world");
 	
+	//function to print the output
+	
 	printf("Enter all the three numbers:");
 	scanf("%d %d %d \n",&num1,&num2,&num3);
 	
